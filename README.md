@@ -13,3 +13,11 @@ The objective of this project is to come up with a pricing model that can effect
 * Explore and visualize the dataset.
 * Build a model to predict the prices of used cars.
 * Generate a set of insights and recommendations that will help the business.
+
+
+
+
+
+
+
+You can find the full repository for my analysis at on my Github repo page: https://github.com/alireza18878/Predicting-used-car-prices
